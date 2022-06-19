@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T13:42:22.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.1" etag="gRgrJ0vPR1FIJOtpz7Qs" type="github"><diagram id="a0btdp3FfL-JI-uwgdce">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-19T14:48:37.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="cPcxBzPkGgnH62ADIkzY" version="20.0.1" type="github">
+  <diagram id="a0btdp3FfL-JI-uwgdce" name="페이지-1">
+    <mxGraphModel dx="1969" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="38S0GzFF0ls4ShCrIEfO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=9;" edge="1" parent="1" source="38S0GzFF0ls4ShCrIEfO-1" target="38S0GzFF0ls4ShCrIEfO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38S0GzFF0ls4ShCrIEfO-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;시작&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="38S0GzFF0ls4ShCrIEfO-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="38S0GzFF0ls4ShCrIEfO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=9;" edge="1" parent="1" source="38S0GzFF0ls4ShCrIEfO-3" target="38S0GzFF0ls4ShCrIEfO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38S0GzFF0ls4ShCrIEfO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=9;" edge="1" parent="1" source="38S0GzFF0ls4ShCrIEfO-3" target="38S0GzFF0ls4ShCrIEfO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38S0GzFF0ls4ShCrIEfO-3" value="&lt;font style=&quot;font-size: 9px; line-height: 1.2;&quot;&gt;튜토리얼을 진행했는가?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="486" y="90" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="38S0GzFF0ls4ShCrIEfO-7" value="예" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="380" y="130" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="38S0GzFF0ls4ShCrIEfO-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="680" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="38S0GzFF0ls4ShCrIEfO-11" value="아니오" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="690" y="130" width="50" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
